@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NLP_Subtitle.iml" filepath="$PROJECT_DIR$/NLP_Subtitle.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/SRTParser-master/SRTParser-master/SRTParser-master.iml" filepath="$USER_HOME$/Desktop/SRTParser-master/SRTParser-master/SRTParser-master.iml" />
+    </modules>
+  </component>
+</project>
