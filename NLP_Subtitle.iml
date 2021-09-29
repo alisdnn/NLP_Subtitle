@@ -9,8 +9,13 @@
     </content>
     <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="log4j-1.2.15" level="project" />
     <orderEntry type="library" name="Maven: org.dhatim:fastexcel:0.12.8" level="project" />
     <orderEntry type="library" name="Maven: com.github.rzymek:opczip:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.15" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:mail:1.4" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.jms:jms:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jdmk:jmxtools:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.jmx:jmxri:1.2.1" level="project" />
   </component>
 </module>
